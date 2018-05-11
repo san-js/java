@@ -29,3 +29,4 @@ https://www.programcreek.com/java-api-examples/?api=org.pentaho.di.core.logging.
 https://wiki.pentaho.com/display/EAI/User+Defined+Java+Expression
 
 
+https://wiki.pentaho.com/display/COM/Running+kettle+transformation+using+Java
