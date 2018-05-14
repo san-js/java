@@ -30,3 +30,17 @@ https://wiki.pentaho.com/display/EAI/User+Defined+Java+Expression
 
 
 https://wiki.pentaho.com/display/COM/Running+kettle+transformation+using+Java
+
+
+http://woodlouse.blogspot.in/2013/02/how-to-create-pentaho-report-using-rest.html
+
+https://anotherreeshu.wordpress.com/tag/pentaho-data-integration/
+
+https://virtualviking.net/tag/pentaho-kettle/  ---
+
+https://blog.picnic.nl/automated-data-processing-with-pentaho-4f8223422b08
+
+https://dataist.org/2015/01/25/part-2-using-kettle-to-get-jira-information-through-rest-atlassian-api-for-better-project-tracking/
+
+http://www.monitis.com/blog/building-custom-monitor-with-pentaho-kettle/
+
