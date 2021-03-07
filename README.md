@@ -1,6 +1,9 @@
 https://docs.oracle.com/cd/E19636-01/819-2660/gabyj/index.html
 
-
+concepcionv
+xavierhs
+ https://zoom.us/j/94354857247
+ 
 https://vaadin.com/docs/v8/framework/articles/SendingEmailFromJavaApplications.html
 
 
